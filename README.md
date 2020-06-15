@@ -1,21 +1,5 @@
-<<<<<<< HEAD
-# uiconcept
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Flutter-UI-Stories
 simple and lovely flutter page View Widget 
->>>>>>> 7bb364b402cdd99363deec139376700b17f4fac0
+
+
+![Screenshot_1592235132](https://user-images.githubusercontent.com/51218670/84677677-4f391780-af44-11ea-821f-f6c9aef4a2c9.png)
